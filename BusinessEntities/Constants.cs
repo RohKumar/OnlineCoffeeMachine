@@ -11,7 +11,7 @@ namespace BusinessEntities
 		public const string MelbourneLatitude = "-37.81";
         public const string MelbourneLongitude = "144.96";
 
-		public const int TempreatureThreshold = 15;
+		public const int TempreatureThreshold = 30;
 
     }
 }
